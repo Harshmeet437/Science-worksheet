@@ -1,0 +1,60 @@
+.menu{
+font-family: 'Dancing Script', cursive;
+z-index: 10;
+position:fixed;
+top:0px;
+cursor: pointer;
+font-weight: 700;
+margin-top: 0px;
+width: 100%;
+list-style:none;
+margin-left: 400px;
+}
+.Home{
+float: left;
+padding-left: 33px;
+padding-right: 25px;
+font-size: 25px;
+}
+.Home:hover{
+background-color: red;
+}
+.line{
+    width: 100px;
+    height: 10px;
+    position: center;
+    background: black;
+    margin:8px auto;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#19f511 0%, #13f0e8 100%);
+}
+img{
+height: 400px;
+width:400px;
+}
+#sc.worksheet{
+height: 400px;
+width: 400px;
+}
+.menu2{
+font-family: 'Dancing Script', cursive;
+z-index: 10;
+top:5px;
+cursor: pointer;
+font-weight: 700;
+margin-top: 0px;
+width: 100%;
+list-style:none;
+margin-left: 950px;
+}
+.Science:hover{
+background-color: red;
+}
+.Science{
+float: left;
+padding-left: 20px;
+padding-right: 25px;
+font-size: 25px;
+}
